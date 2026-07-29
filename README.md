@@ -2,8 +2,6 @@
 
 An NLP-based fact-checking system that combines **Retrieval-Augmented Generation (RAG)** with transformer models to verify claims against evidence — built and evaluated on the **FEVER** dataset.
 
-> Final Year B.E. Project — KLE Technological University, Hubli
-
 ---
 
 ## 📌 Overview
@@ -88,13 +86,6 @@ python retrieval/build_index.py
 python main.py --claim "The Eiffel Tower is located in Berlin."
 ```
 
----
-
-## 📄 Project Report
-
-A full LaTeX-formatted project report detailing the architecture, methodology, experiments, and results is available in the `report/` directory — submitted as part of the B.E. degree requirements at KLE Technological University.
-
----
 
 ## 🎯 Future Improvements
 
@@ -107,4 +98,4 @@ A full LaTeX-formatted project report detailing the architecture, methodology, e
 
 ## 📜 License
 
-Academic project — developed as part of the B.E. Computer Science Engineering curriculum at KLE Technological University.
+Academic project, developed for educational and research purposes.
