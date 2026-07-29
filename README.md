@@ -96,18 +96,6 @@ A full LaTeX-formatted project report detailing the architecture, methodology, e
 
 ---
 
-## 👥 Team
-
-**Co-authors:**
-- Shubha C S
-- Preeti Kotabagi
-
-**Project Guides:**
-- Dr. Sumaiya Pathan
-- Dr. Vijaylakshmi
-
----
-
 ## 🎯 Future Improvements
 
 - [ ] Expand retrieval corpus beyond FEVER's Wikipedia-based evidence
